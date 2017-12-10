@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-local-notifications",
-  "version": "0.8.4",
+  "version": "0.8.5",
   "description": "Schedule, trigger and query local notifications on iOS and Android",
   "cordova": {
     "id": "de.appplant.cordova.plugin.local-notification",
